@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-dotenv==1.0.1
+pydantic==2.10.3
+mongodb==7.0.37
+pymongo==4.10.1
+dnspython==2.7.0
+sib-api-v3-sdk==7.6.0
+PyPDF2==3.0.1
+faiss-cpu==1.9.0
+numpy==1.26.4
+langchain==0.3.13
+langchain-core==0.3.28
+langchain-openai==0.2.14
+langchain-text-splitters==0.3.4
+openai==1.58.1
